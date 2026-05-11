@@ -68,7 +68,7 @@ These plots show how the model captures the market reality:
 ### 3. Final Risk Metrics (Latest Values)
 These are the core results obtained via the `cat()` and `tail()` functions:
 
-![Results VaR P-value and ES](results_VaR_Kupiec_test_pvalue_ES.png)
+![Results VaR P-value and ES](results_current_VaR_Kupiec_test_p-value_ES.png)
 
 | Metric | Interpretation | Value |
 | :--- | :--- | :--- |
